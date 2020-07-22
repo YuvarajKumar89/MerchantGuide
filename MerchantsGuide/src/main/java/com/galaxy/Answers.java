@@ -12,6 +12,8 @@ public class Answers {
 	
 	public Map<String, String> getQuestionAnswerMap() {
 		return questionAnswerMap;
+		
+		
 	}
 	
 }
